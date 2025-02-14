@@ -1,0 +1,11 @@
+C:\Users\magha\source\repos\ConsumerLibrary\ConsumerLibrary\bin\Debug\net8.0\ConsumerLibrary.deps.json
+C:\Users\magha\source\repos\ConsumerLibrary\ConsumerLibrary\bin\Debug\net8.0\ConsumerLibrary.dll
+C:\Users\magha\source\repos\ConsumerLibrary\ConsumerLibrary\bin\Debug\net8.0\ConsumerLibrary.pdb
+C:\Users\magha\source\repos\ConsumerLibrary\ConsumerLibrary\obj\Debug\net8.0\ConsumerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magha\source\repos\ConsumerLibrary\ConsumerLibrary\obj\Debug\net8.0\ConsumerLibrary.AssemblyInfoInputs.cache
+C:\Users\magha\source\repos\ConsumerLibrary\ConsumerLibrary\obj\Debug\net8.0\ConsumerLibrary.AssemblyInfo.cs
+C:\Users\magha\source\repos\ConsumerLibrary\ConsumerLibrary\obj\Debug\net8.0\ConsumerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\magha\source\repos\ConsumerLibrary\ConsumerLibrary\obj\Debug\net8.0\ConsumerLibrary.dll
+C:\Users\magha\source\repos\ConsumerLibrary\ConsumerLibrary\obj\Debug\net8.0\refint\ConsumerLibrary.dll
+C:\Users\magha\source\repos\ConsumerLibrary\ConsumerLibrary\obj\Debug\net8.0\ConsumerLibrary.pdb
+C:\Users\magha\source\repos\ConsumerLibrary\ConsumerLibrary\obj\Debug\net8.0\ref\ConsumerLibrary.dll
