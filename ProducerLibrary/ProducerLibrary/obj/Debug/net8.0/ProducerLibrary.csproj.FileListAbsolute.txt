@@ -1,0 +1,11 @@
+C:\Users\magha\source\repos\ProducerLibrary\ProducerLibrary\bin\Debug\net8.0\ProducerLibrary.deps.json
+C:\Users\magha\source\repos\ProducerLibrary\ProducerLibrary\bin\Debug\net8.0\ProducerLibrary.dll
+C:\Users\magha\source\repos\ProducerLibrary\ProducerLibrary\bin\Debug\net8.0\ProducerLibrary.pdb
+C:\Users\magha\source\repos\ProducerLibrary\ProducerLibrary\obj\Debug\net8.0\ProducerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magha\source\repos\ProducerLibrary\ProducerLibrary\obj\Debug\net8.0\ProducerLibrary.AssemblyInfoInputs.cache
+C:\Users\magha\source\repos\ProducerLibrary\ProducerLibrary\obj\Debug\net8.0\ProducerLibrary.AssemblyInfo.cs
+C:\Users\magha\source\repos\ProducerLibrary\ProducerLibrary\obj\Debug\net8.0\ProducerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\magha\source\repos\ProducerLibrary\ProducerLibrary\obj\Debug\net8.0\ProducerLibrary.dll
+C:\Users\magha\source\repos\ProducerLibrary\ProducerLibrary\obj\Debug\net8.0\refint\ProducerLibrary.dll
+C:\Users\magha\source\repos\ProducerLibrary\ProducerLibrary\obj\Debug\net8.0\ProducerLibrary.pdb
+C:\Users\magha\source\repos\ProducerLibrary\ProducerLibrary\obj\Debug\net8.0\ref\ProducerLibrary.dll
